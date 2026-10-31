@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAJ KAMAL GAUTAM</h1>
 <h3 align="center">A passionate Computer Science Graduate & Full-Stack Developer 🚀</h3>
 
-<img align="right" alt="cat" width="480" src="https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif">
+<img align="right" alt="cat" width="400" src="https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajgautam8113&label=Profile%20views&color=0e75b6&style=flat" alt="rajgautam8113" /> </p>
 
